@@ -1,4 +1,5 @@
 import random
+import serial
 
 sorteados = []
 flagCerto = True
